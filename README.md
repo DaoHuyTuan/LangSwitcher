@@ -5,3 +5,7 @@ App help developer switch input language automatic
 - No Tracking
 - No Combo key need
 ```
+
+```
+Download Zip file extract and install
+```
